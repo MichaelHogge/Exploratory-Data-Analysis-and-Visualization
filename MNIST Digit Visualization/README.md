@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-and-Visualization
+# MNIST Digit Visualization
